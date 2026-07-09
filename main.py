@@ -1,7 +1,7 @@
 def say_hello():
     print("hello everyone")
 
-def greetWhite():
+def greet_white():
     print("hello white")
 
 def greet_black():
@@ -9,3 +9,5 @@ def greet_black():
 
 if __name__ == "__main__":
     say_hello()
+    greet_white()
+    greet_black()
